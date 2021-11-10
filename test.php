@@ -65,6 +65,8 @@ echo "Kui esimene arv jagame teise arvuga, siis vastuseks ".($arv1/$arv2);
     Korrutustabelis peab olema esimesel real ja veerul numbrid 1-10. <br>
     Teisel real esimese rea ja veeru korrustis jne.</p>
 
+<a href="harjutused/405.php"> Ülesanne 405</a>
+
 <footer>
     <<?php
     echo "Tänanae kuupäev ".date("d.m.Y");
